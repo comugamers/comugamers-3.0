@@ -1,2 +1,2 @@
-# comugamers-3.0
+# comugamers30
 bot using heroku,24/7
