@@ -1,0 +1,13 @@
+{
+   "name": "TestBot",
+   "description": "Amo ComuGamers",
+   "version": "0.0.1",
+   "main": "bot.js", comugamers 3.0
+   "scripts": {
+     "start": "node bot.js"
+   },
+   "dependencies": {
+     "discord.js": "11.0.0",
+     "request": "2.81.8",
+   }
+}
